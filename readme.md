@@ -2,9 +2,9 @@
 
 Meu nome é Daniel Barros de Oliveira, sou Desenvolvedor Frontend, tenho 27 anos, resido em Barueri - SP.
 
-Formado em Análise e Desenvolvimento de Sistemas.
-Cursando Pós-Graduação em Projetos de Aplicativos Móveis Multiplataforma 
-Cursando Pós Graduação em Projetos de Cloud Computing.
+- Formado em Análise e Desenvolvimento de Sistemas.
+- Cursando Pós-Graduação em Projetos de Aplicativos Móveis Multiplataforma 
+- Cursando Pós Graduação em Projetos de Cloud Computing.
 
 Trabalho com TI quase 13 anos, sendo 11 anos voltado para suporte a usuários de sistemas Windows, Manutenção de Computadores, Redes e Cabeamento Estruturado, Implantação de Sistemas, Servidores, Virtualização, onde passei por diversas empresas de médio e grande porte, nacionais e multinacionais, como Dell, Stefanini, Luft Solutions, Sonda IT, entre outras, resolvi migrar dessa área, para desenvolvimento de sistemas.
 
