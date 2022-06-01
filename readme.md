@@ -48,7 +48,7 @@ Gosto de buscar conhecimento e estar em constante evolução, acredito muito que
 - Dart
 - Flutter
 
-Em meu tempo livre, gosto de assistir animes, filmes de ação e aventura(:tv:), tocar violão e guitarra (:guitar:) e ouvir música (:musical_note:), ler alguns livros (:books:).
+Em meu tempo livre, gosto de assistir animes, filmes de ação e aventura(:tv:), tocar violão e guitarra (:guitar:), ouvir música (:musical_note:) e ler alguns livros técnicos ou não (:books:).
 
 Quer bater um papo ou me encontrar?
 
