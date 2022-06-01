@@ -1,8 +1,14 @@
 ### Olá, bem-vindo(a)! :smile:
 
-Meu nome é Daniel Barros de Oliveira, 
+Meu nome é Daniel Barros de Oliveira, sou Desenvolvedor Frontend, tenho 27 anos, resido em Barueri - SP.
 
-Após 11 anos atuando na área de TI (voltado para suporte a usuários, sistemas, redes, implantação de sistemas, passando por diversas empresas de médio e grande porte, nacionais e multinacionais), resolvi migrar de área indo atuar como desenvolvedor, e hoje com cerca de 1 ano e 6 meses como Desenvolvedor Frontend, estou trabalhando para Ília Digital, formado em ADS (Análise e Desenvolvimento de Sistemas) e apaixonado por essa área(:heart:).
+Formado em Análise e Desenvolvimento de Sistemas.
+Cursando Pós-Graduação em Projetos de Aplicativos Móveis Multiplataforma 
+Cursando Pós Graduação em Projetos de Cloud Computing.
+
+Trabalho com TI quase 13 anos, sendo 11 anos voltado para suporte a usuários de sistemas Windows, Manutenção de Computadores, Redes e Cabeamento Estruturado, Implantação de Sistemas, Servidores, Virtualização, onde passei por diversas empresas de médio e grande porte, nacionais e multinacionais, como Dell, Stefanini, Luft Solutions, Sonda IT, entre outras, resolvi migrar dessa área, para desenvolvimento de sistemas.
+
+Atualmente trabalho na Ília Digital, completando quase 2 anos na área de Desenvolvimento.
 
 Gosto de buscar conhecimento e estar em constante evolução, acredito muito que se melhorarmos 1% ao dia, em 1 ano teremos evoluído 365%.
 
@@ -37,9 +43,10 @@ Gosto de buscar conhecimento e estar em constante evolução, acredito muito que
 
 **Tecnologias que estou estudando:**
 
+- React.js
 - React Native
-- Expo
-- Styled Components
+- Dart
+- Flutter
 
 Em meu tempo livre, gosto de assistir animes, filmes de ação e aventura(:tv:), tocar violão e guitarra (:guitar:) e ouvir música (:musical_note:), ler alguns livros (:books:).
 
